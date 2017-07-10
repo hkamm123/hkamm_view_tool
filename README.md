@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+HkammViewTool::Renderer.copyright 'Hyrum Kammerman', 'All rights reserved'
 
 ## Development
 
